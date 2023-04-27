@@ -1,12 +1,14 @@
-# Welcome to SpaceOps!
-This a 1v1 arcade style shooter game.
+# 🚀 Welcome to SpaceOps! 🚀
+This a 1v1 arcade style shooter game adapted from the single player game "SpaceInvaders" 
+created by TechWithTim. https://youtu.be/Q-__8Xw9KTM
+
 
 Upon execution of main file, the game window will automatically be displayed 
 and the game is ready to start. Both players will play on the same keyboard,
 from the same console. 
 
 # Controls
-Left spaceship:
+Left spaceship: 
   - Movement: WASD keys
   - Fire bullet: left CTRL
 
